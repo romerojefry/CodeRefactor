@@ -62,3 +62,14 @@ The example contains the modified changes and added tags
         
 </footer>
 
+## Built With
+
+* HTML
+
+## Author
+
+* **Jefry Romero**  
+
+- [Portolio]
+- [Link to Github](https://github.com/romerojefry)
+- [Link to LinkedIn](http://linkedin.com/in/jefry-romero-6125a0160)
